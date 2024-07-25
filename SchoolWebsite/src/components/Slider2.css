@@ -1,0 +1,25 @@
+.Slider2{
+    height: 400px !important;
+    width: auto;
+}
+
+@media screen and (max-width:610px) {
+    .Slider2{
+        height: 360px !important;
+    }
+    
+}
+
+@media screen and (max-width:520px) {
+    .Slider2{
+        height: 300px !important;
+    }
+    
+}
+
+@media screen and (max-width:400px) {
+    .Slider2{
+        height: 260px !important;
+    }
+    
+}

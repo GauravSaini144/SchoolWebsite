@@ -1,0 +1,45 @@
+.Slider{
+    height: 500px !important;
+}
+
+@media screen and (max-width:890px) {
+    .Slider{
+        height: 450px !important;
+    }
+    
+}
+
+@media screen and (max-width:720px) {
+    .Slider{
+        height: 400px !important;
+    }
+    
+}
+
+@media screen and (max-width:590px) {
+    .Slider{
+        height: 350px !important;
+    }
+    
+}
+
+@media screen and (max-width:510px) {
+    .Slider{
+        height: 300px !important;
+    }
+    
+}
+
+@media screen and (max-width:410px) {
+    .Slider{
+        height: 250px !important;
+    }
+    
+}
+
+@media screen and (max-width:360px) {
+    .Slider{
+        height: 220px !important;
+    }
+    
+}
