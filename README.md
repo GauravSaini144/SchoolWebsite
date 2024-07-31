@@ -11,3 +11,5 @@ Library and Framwork used---->
  2. Tailwind CSS
 
 Logo and Images used in the project are taken from internet.
+
+Live Link :- https://schoolwebsite1.onrender.com/
